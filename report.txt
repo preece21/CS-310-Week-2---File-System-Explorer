@@ -1,0 +1,2 @@
+1. You can list a directory using the Pathlib library. Using a Path object, you can use the .iterdir() method to loop through each thing in a directory.
+2. Argv uses the sys library and contains the command line arguments when a python file is run. Argv[0] is the path to the python file being run and argv[1] is the first argument entered after.
